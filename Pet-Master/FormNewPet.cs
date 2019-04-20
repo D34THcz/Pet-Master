@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pet_Master
 {
-    public partial class Form1 : Form
+    public partial class FormNewPet : Form
     {
-        public Form1()
+        public FormNewPet()
         {
             InitializeComponent();
         }
