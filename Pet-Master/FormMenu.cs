@@ -12,6 +12,9 @@ namespace Pet_Master
 {
     public partial class FormMenu : Form
     {
+        //public static Zviratko Pigina = new Zviratko("Pigina", 85, 115, 110);
+        //public Zviratko Horsie = new Zviratko("Horsie", 120, 85, 90);
+
         public FormMenu()
         {
             InitializeComponent();
@@ -25,7 +28,7 @@ namespace Pet_Master
 
         private void labelLoadGameMenu_Click(object sender, EventArgs e)
         {
-
+            
         }
 
 

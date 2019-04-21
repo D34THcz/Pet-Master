@@ -16,5 +16,11 @@ namespace Pet_Master
         {
             InitializeComponent();
         }
+
+        private void BtnCreateRight_Click(object sender, EventArgs e)
+        {
+            
+            
+        }
     }
 }
